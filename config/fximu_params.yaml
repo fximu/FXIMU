@@ -1,0 +1,6 @@
+params/imu: { 
+mag_offset_x: 35.27, mag_offset_y: 63.69, mag_offset_z: 49.95, 
+mag_soft_iron_ix: 0.985, mag_soft_iron_iy: -0.016, mag_soft_iron_iz: -0.003, 
+mag_soft_iron_jx: -0.016, mag_soft_iron_jy: 0.983, mag_soft_iron_jz: 0.015, 
+mag_soft_iron_kx: -0.003, mag_soft_iron_ky: 0.015, mag_soft_iron_kz: 1.034, 
+gyro_zero_offset_x: 0.0, gyro_zero_offset_y: 0.0, gyro_zero_offset_z: 0.0}
